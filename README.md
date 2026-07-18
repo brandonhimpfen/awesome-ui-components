@@ -66,6 +66,7 @@
 - [Font Awesome](https://fontawesome.com/) – The web’s most popular icon set and toolkit.
 - [Remix Icon](https://remixicon.com/) – Open-source set of carefully crafted system icons.
 - [Tabler Icons](https://tabler.io/icons) – A set of over 4,000 customizable SVG icons.
+- [GeoIcons](https://geoicons.io) - Map-shape SVG icons for every country and areas.
 
 ## Themes & Skins
 
