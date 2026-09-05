@@ -1,4 +1,4 @@
-# Awesome UI Components [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome UI Components [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -88,11 +88,11 @@
 
 ## Related Lists
 
-- [Awesome Design](https://github.com/awesomelistsio/awesome-design)
-- [Awesome Tailwind CSS](https://github.com/awesomelistsio/awesome-tailwind-css)
-- [Awesome Icons](https://github.com/awesomelistsio/awesome-icons)
-- [Awesome UX](https://github.com/awesomelistsio/awesome-ux)
-- [Awesome Figma](https://github.com/awesomelistsio/awesome-figma)
+- [Awesome Design](https://github.com/brandonhimpfen/awesome-design)
+- [Awesome Tailwind CSS](https://github.com/brandonhimpfen/awesome-tailwind-css)
+- [Awesome Icons](https://github.com/brandonhimpfen/awesome-icons)
+- [Awesome UX](https://github.com/brandonhimpfen/awesome-ux)
+- [Awesome Figma](https://github.com/brandonhimpfen/awesome-figma)
   
 ## Contribute
 
