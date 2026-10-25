@@ -59,6 +59,7 @@
 - [Framer Motion](https://www.framer.com/motion/) – An animation library for React components.
 - [React Spring](https://react-spring.dev/) – A spring-physics-based animation library for React.
 - [Lottie](https://airbnb.io/lottie/#/) – Render After Effects animations natively on the web and mobile.
+- [svg-loaders-react](https://github.com/ajwann/svg-loaders-react) – Zero-dependency React components for Sam Herbert's SVG Loaders (12 animated SVG spinners).
 
 ## Icon Sets
 
