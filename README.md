@@ -34,6 +34,12 @@
 - [Tailwind UI](https://tailwindui.com/) – Official UI components built with Tailwind CSS (paid).
 - [Vuetify](https://vuetifyjs.com/) – Material Design UI library for Vue.js.
 - [Quasar](https://quasar.dev/) – High-performance Material Design 2 UI for Vue 3.
+- [Revo UI](https://github.com/revolist/revo-ui) – MIT-licensed UI components for reports and dashboards, including form controls, pickers, and dialogs.
+- [RevoGrid Charts](https://github.com/revolist/charts) – Interactive charts for reports and dashboards, with zoom, annotations, and export. Commercial with a 30-day trial.
+- [RevoGrid Pivot](https://github.com/revolist/pivot) – Pivot tables for grouping, aggregation, subtotals, and grand totals. Commercial with a 30-day trial.
+- [RevoGrid Gantt](https://github.com/revolist/gantt) – Gantt charts for project tasks, dependencies, and timelines. Commercial with a 30-day trial.
+- [RevoGrid Kanban](https://github.com/revolist/kanban) – Kanban boards for workflow columns, swimlanes, and card editing. Commercial with a 30-day trial.
+- [RevoGrid Scheduler](https://github.com/revolist/scheduler) – Event and resource scheduling with calendar and timeline views. Commercial with a 30-day trial.
 
 ## Design Systems
 
